@@ -7,5 +7,7 @@ Because it helps you learn and understand the tools you use on a day to day basi
 
 ## Future Plans Including but not limited to:
 - A Programming Language and Compiler
+- Neural Net ML Library
+- Testing Library
 - A Browser
 - I want to redo RichUI
