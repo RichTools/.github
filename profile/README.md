@@ -13,3 +13,11 @@ Because it helps you learn and understand the tools you use on a day to day basi
 - I want to redo RichUI
 
 https://RichTools.github.io
+
+## Todo List 
+- Neural Nets
+  - Autograd
+  - Extentions
+  - MNIST
+- Lamb
+  - garbage collection
